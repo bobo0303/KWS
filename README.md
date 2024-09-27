@@ -57,4 +57,4 @@ The example code for running a DNN model on a Cortex-M development board is also
 
 ## Reference
 
-[ML-KWS-for-MCU](https://github.com/ARM-software/ML-KWS-for-MCU) https://github.com/ARM-software/ML-KWS-for-MCU
+[ML-KWS-for-MCU] https://github.com/ARM-software/ML-KWS-for-MCU
